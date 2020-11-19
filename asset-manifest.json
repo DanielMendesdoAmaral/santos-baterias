@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/your-app-name/static/css/main.b97f6b01.chunk.css",
-    "main.js": "/your-app-name/static/js/main.f6c7f895.chunk.js",
-    "main.js.map": "/your-app-name/static/js/main.f6c7f895.chunk.js.map",
-    "runtime-main.js": "/your-app-name/static/js/runtime-main.b9504668.js",
-    "runtime-main.js.map": "/your-app-name/static/js/runtime-main.b9504668.js.map",
-    "static/js/2.d78aa239.chunk.js": "/your-app-name/static/js/2.d78aa239.chunk.js",
-    "static/js/2.d78aa239.chunk.js.map": "/your-app-name/static/js/2.d78aa239.chunk.js.map",
-    "index.html": "/your-app-name/index.html",
-    "precache-manifest.dbf487caab30cf46021bacb8c3395047.js": "/your-app-name/precache-manifest.dbf487caab30cf46021bacb8c3395047.js",
-    "service-worker.js": "/your-app-name/service-worker.js",
-    "static/css/main.b97f6b01.chunk.css.map": "/your-app-name/static/css/main.b97f6b01.chunk.css.map",
-    "static/js/2.d78aa239.chunk.js.LICENSE.txt": "/your-app-name/static/js/2.d78aa239.chunk.js.LICENSE.txt",
-    "static/media/Logo.png": "/your-app-name/static/media/Logo.870ca010.png"
+    "main.css": "/santos-baterias/static/css/main.96af1b00.chunk.css",
+    "main.js": "/santos-baterias/static/js/main.9d37eadb.chunk.js",
+    "main.js.map": "/santos-baterias/static/js/main.9d37eadb.chunk.js.map",
+    "runtime-main.js": "/santos-baterias/static/js/runtime-main.70319cec.js",
+    "runtime-main.js.map": "/santos-baterias/static/js/runtime-main.70319cec.js.map",
+    "static/js/2.d78aa239.chunk.js": "/santos-baterias/static/js/2.d78aa239.chunk.js",
+    "static/js/2.d78aa239.chunk.js.map": "/santos-baterias/static/js/2.d78aa239.chunk.js.map",
+    "index.html": "/santos-baterias/index.html",
+    "precache-manifest.a59d51e3887a85cbcbcdcfc4fa9c36fb.js": "/santos-baterias/precache-manifest.a59d51e3887a85cbcbcdcfc4fa9c36fb.js",
+    "service-worker.js": "/santos-baterias/service-worker.js",
+    "static/css/main.96af1b00.chunk.css.map": "/santos-baterias/static/css/main.96af1b00.chunk.css.map",
+    "static/js/2.d78aa239.chunk.js.LICENSE.txt": "/santos-baterias/static/js/2.d78aa239.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/santos-baterias/static/media/Logo.870ca010.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9504668.js",
+    "static/js/runtime-main.70319cec.js",
     "static/js/2.d78aa239.chunk.js",
-    "static/css/main.b97f6b01.chunk.css",
-    "static/js/main.f6c7f895.chunk.js"
+    "static/css/main.96af1b00.chunk.css",
+    "static/js/main.9d37eadb.chunk.js"
   ]
 }
