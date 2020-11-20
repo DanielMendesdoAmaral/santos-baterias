@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/santos-baterias/static/css/main.740ef4cb.chunk.css",
-    "main.js": "/santos-baterias/static/js/main.682dac08.chunk.js",
-    "main.js.map": "/santos-baterias/static/js/main.682dac08.chunk.js.map",
+    "main.css": "/santos-baterias/static/css/main.6d3ae764.chunk.css",
+    "main.js": "/santos-baterias/static/js/main.0004ce8c.chunk.js",
+    "main.js.map": "/santos-baterias/static/js/main.0004ce8c.chunk.js.map",
     "runtime-main.js": "/santos-baterias/static/js/runtime-main.70319cec.js",
     "runtime-main.js.map": "/santos-baterias/static/js/runtime-main.70319cec.js.map",
-    "static/js/2.d78aa239.chunk.js": "/santos-baterias/static/js/2.d78aa239.chunk.js",
-    "static/js/2.d78aa239.chunk.js.map": "/santos-baterias/static/js/2.d78aa239.chunk.js.map",
+    "static/js/2.953dbe6b.chunk.js": "/santos-baterias/static/js/2.953dbe6b.chunk.js",
+    "static/js/2.953dbe6b.chunk.js.map": "/santos-baterias/static/js/2.953dbe6b.chunk.js.map",
     "index.html": "/santos-baterias/index.html",
-    "precache-manifest.70140f21ea5a9853d4010650eb9faa12.js": "/santos-baterias/precache-manifest.70140f21ea5a9853d4010650eb9faa12.js",
+    "precache-manifest.2a6512cbc2cdc3668739679b80914507.js": "/santos-baterias/precache-manifest.2a6512cbc2cdc3668739679b80914507.js",
     "service-worker.js": "/santos-baterias/service-worker.js",
-    "static/css/main.740ef4cb.chunk.css.map": "/santos-baterias/static/css/main.740ef4cb.chunk.css.map",
-    "static/js/2.d78aa239.chunk.js.LICENSE.txt": "/santos-baterias/static/js/2.d78aa239.chunk.js.LICENSE.txt",
+    "static/css/main.6d3ae764.chunk.css.map": "/santos-baterias/static/css/main.6d3ae764.chunk.css.map",
+    "static/js/2.953dbe6b.chunk.js.LICENSE.txt": "/santos-baterias/static/js/2.953dbe6b.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/santos-baterias/static/media/Banner.32b31046.jpg",
     "static/media/Logo.png": "/santos-baterias/static/media/Logo.870ca010.png"
   },
   "entrypoints": [
     "static/js/runtime-main.70319cec.js",
-    "static/js/2.d78aa239.chunk.js",
-    "static/css/main.740ef4cb.chunk.css",
-    "static/js/main.682dac08.chunk.js"
+    "static/js/2.953dbe6b.chunk.js",
+    "static/css/main.6d3ae764.chunk.css",
+    "static/js/main.0004ce8c.chunk.js"
   ]
 }
