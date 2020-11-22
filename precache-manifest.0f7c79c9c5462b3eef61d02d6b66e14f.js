@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71cd08cae6a3faf0de90cea97c6c65c7",
+    "revision": "f64b82311cff2ba2fe8f36d637cf3c65",
     "url": "/santos-baterias/index.html"
   },
   {
-    "revision": "11cf460afb41617eb8f5",
-    "url": "/santos-baterias/static/css/main.4901f8a2.chunk.css"
+    "revision": "965e17e48ec2eb8f3bbb",
+    "url": "/santos-baterias/static/css/main.d7f486dc.chunk.css"
   },
   {
     "revision": "f82b67e532a6f0359361",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/santos-baterias/static/js/2.953dbe6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11cf460afb41617eb8f5",
-    "url": "/santos-baterias/static/js/main.dcf8b1f8.chunk.js"
+    "revision": "965e17e48ec2eb8f3bbb",
+    "url": "/santos-baterias/static/js/main.51433e32.chunk.js"
   },
   {
     "revision": "80fbe6eb75fefc53b7b5",

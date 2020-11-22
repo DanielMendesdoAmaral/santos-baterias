@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/santos-baterias/precache-manifest.7509c40165a9eac63b31e81fd81ddbea.js"
+  "/santos-baterias/precache-manifest.0f7c79c9c5462b3eef61d02d6b66e14f.js"
 );
 
 self.addEventListener('message', (event) => {
