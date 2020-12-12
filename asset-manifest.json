@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/santos-baterias/static/css/main.88a5fdd1.chunk.css",
+    "main.css": "/santos-baterias/static/css/main.2cc8cad8.chunk.css",
     "main.js": "/santos-baterias/static/js/main.24904e8c.chunk.js",
     "main.js.map": "/santos-baterias/static/js/main.24904e8c.chunk.js.map",
     "runtime-main.js": "/santos-baterias/static/js/runtime-main.70319cec.js",
@@ -8,9 +8,9 @@
     "static/js/2.8d42a348.chunk.js": "/santos-baterias/static/js/2.8d42a348.chunk.js",
     "static/js/2.8d42a348.chunk.js.map": "/santos-baterias/static/js/2.8d42a348.chunk.js.map",
     "index.html": "/santos-baterias/index.html",
-    "precache-manifest.94df5cd76c64cf0d5a4d8919fbc82f2c.js": "/santos-baterias/precache-manifest.94df5cd76c64cf0d5a4d8919fbc82f2c.js",
+    "precache-manifest.ccb22ab71eff1f4e0362caa5aeb59f0e.js": "/santos-baterias/precache-manifest.ccb22ab71eff1f4e0362caa5aeb59f0e.js",
     "service-worker.js": "/santos-baterias/service-worker.js",
-    "static/css/main.88a5fdd1.chunk.css.map": "/santos-baterias/static/css/main.88a5fdd1.chunk.css.map",
+    "static/css/main.2cc8cad8.chunk.css.map": "/santos-baterias/static/css/main.2cc8cad8.chunk.css.map",
     "static/js/2.8d42a348.chunk.js.LICENSE.txt": "/santos-baterias/static/js/2.8d42a348.chunk.js.LICENSE.txt",
     "static/media/home.css": "/santos-baterias/static/media/Banner.32b31046.jpg",
     "static/media/Logo.png": "/santos-baterias/static/media/Logo.870ca010.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.70319cec.js",
     "static/js/2.8d42a348.chunk.js",
-    "static/css/main.88a5fdd1.chunk.css",
+    "static/css/main.2cc8cad8.chunk.css",
     "static/js/main.24904e8c.chunk.js"
   ]
 }
