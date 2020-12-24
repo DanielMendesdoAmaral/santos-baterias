@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7de62e0dda39552ddea677720e2a7afc",
+    "revision": "e9b09b497ba00bc4499d6c25bd59e2d2",
     "url": "/santos-baterias/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/santos-baterias/static/css/2.468338fd.chunk.css"
   },
   {
-    "revision": "43be1bdaeabcfcc34fb5",
-    "url": "/santos-baterias/static/css/main.f856e484.chunk.css"
+    "revision": "34c3fb607d9f46dacd80",
+    "url": "/santos-baterias/static/css/main.2d10c358.chunk.css"
   },
   {
     "revision": "ebb6b1caafd1ecf27cc8",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/santos-baterias/static/js/2.636683c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43be1bdaeabcfcc34fb5",
-    "url": "/santos-baterias/static/js/main.79821256.chunk.js"
+    "revision": "34c3fb607d9f46dacd80",
+    "url": "/santos-baterias/static/js/main.7b373bae.chunk.js"
   },
   {
     "revision": "80fbe6eb75fefc53b7b5",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/santos-baterias/static/media/Banner.32b31046.jpg"
   },
   {
-    "revision": "870ca0106c47902557ff5239e60b89f3",
-    "url": "/santos-baterias/static/media/Logo.870ca010.png"
+    "revision": "a1ba2c0aef73aec74f54da83270ce4aa",
+    "url": "/santos-baterias/static/media/Logo.a1ba2c0a.png"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
