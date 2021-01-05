@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/santos-baterias/static/css/main.2d10c358.chunk.css",
-    "main.js": "/santos-baterias/static/js/main.7b373bae.chunk.js",
-    "main.js.map": "/santos-baterias/static/js/main.7b373bae.chunk.js.map",
+    "main.css": "/santos-baterias/static/css/main.e21dc65d.chunk.css",
+    "main.js": "/santos-baterias/static/js/main.516e094c.chunk.js",
+    "main.js.map": "/santos-baterias/static/js/main.516e094c.chunk.js.map",
     "runtime-main.js": "/santos-baterias/static/js/runtime-main.70319cec.js",
     "runtime-main.js.map": "/santos-baterias/static/js/runtime-main.70319cec.js.map",
     "static/css/2.468338fd.chunk.css": "/santos-baterias/static/css/2.468338fd.chunk.css",
-    "static/js/2.636683c9.chunk.js": "/santos-baterias/static/js/2.636683c9.chunk.js",
-    "static/js/2.636683c9.chunk.js.map": "/santos-baterias/static/js/2.636683c9.chunk.js.map",
+    "static/js/2.fb6e950c.chunk.js": "/santos-baterias/static/js/2.fb6e950c.chunk.js",
+    "static/js/2.fb6e950c.chunk.js.map": "/santos-baterias/static/js/2.fb6e950c.chunk.js.map",
     "index.html": "/santos-baterias/index.html",
-    "precache-manifest.1004b1d36d30e0c8bbf19a8017465c8e.js": "/santos-baterias/precache-manifest.1004b1d36d30e0c8bbf19a8017465c8e.js",
+    "precache-manifest.8aa06fb49520554ad5df5709341abb9d.js": "/santos-baterias/precache-manifest.8aa06fb49520554ad5df5709341abb9d.js",
     "service-worker.js": "/santos-baterias/service-worker.js",
     "static/css/2.468338fd.chunk.css.map": "/santos-baterias/static/css/2.468338fd.chunk.css.map",
-    "static/css/main.2d10c358.chunk.css.map": "/santos-baterias/static/css/main.2d10c358.chunk.css.map",
-    "static/js/2.636683c9.chunk.js.LICENSE.txt": "/santos-baterias/static/js/2.636683c9.chunk.js.LICENSE.txt",
+    "static/css/main.e21dc65d.chunk.css.map": "/santos-baterias/static/css/main.e21dc65d.chunk.css.map",
+    "static/js/2.fb6e950c.chunk.js.LICENSE.txt": "/santos-baterias/static/js/2.fb6e950c.chunk.js.LICENSE.txt",
     "static/media/home.css": "/santos-baterias/static/media/Banner.32b31046.jpg",
     "static/media/Logo.png": "/santos-baterias/static/media/Logo.a1ba2c0a.png",
     "static/media/styles.css": "/santos-baterias/static/media/revicons.2feb69cc.eot"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.70319cec.js",
     "static/css/2.468338fd.chunk.css",
-    "static/js/2.636683c9.chunk.js",
-    "static/css/main.2d10c358.chunk.css",
-    "static/js/main.7b373bae.chunk.js"
+    "static/js/2.fb6e950c.chunk.js",
+    "static/css/main.e21dc65d.chunk.css",
+    "static/js/main.516e094c.chunk.js"
   ]
 }
